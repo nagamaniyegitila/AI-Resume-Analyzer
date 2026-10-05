@@ -205,7 +205,7 @@ This project demonstrates practical experience with:
 
 👨‍💻 Author
 
-Nagamani Yegitila
+Naga Mani Yegitila
 
 ---
 
